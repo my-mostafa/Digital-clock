@@ -1,0 +1,20 @@
+body {
+    background-color: chartreuse;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    height: 90vh;
+
+}
+div {
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
